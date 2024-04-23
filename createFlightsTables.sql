@@ -1,5 +1,3 @@
-PRAGMA foreign_keys=ON;
-
 CREATE TABLE CARRIERS(
     cid varchar(7),
     name varchar(83),
