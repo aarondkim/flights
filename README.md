@@ -22,5 +22,3 @@ Below is an example of a single direct itinerary from Seattle to Boston:
 Below is an example of an indirect itinerary from Seattle to Boston.
 
 <img width="529" alt="Screen Shot 2025-04-09 at 2 59 19 PM" src="https://github.com/user-attachments/assets/04de4506-f464-42e1-9ecc-9e4b40dda976" />
-
-Th
