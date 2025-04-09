@@ -1,6 +1,6 @@
 # Flight App
 
-A prototype management service connected to a live database in Azure with a database design consisting of airline flights (data sourced from Bureau of Transportation Statistics), their customers, and their reservations. This prototype uses a command-line interface supporting the functionalities below:
+A prototype management service connected to a live database in Azure with a database design consisting of airline flights (data sourced from Bureau of Transportation Statistics), their customers, and their reservations. Uses SQL transactions to support concurrency for simultaneous flight searches and reservations. This prototype uses a command-line interface supporting the functionalities below:
 
 UI:
 ```
@@ -23,3 +23,4 @@ Below is an example of an indirect itinerary from Seattle to Boston.
 
 <img width="529" alt="Screen Shot 2025-04-09 at 2 59 19 PM" src="https://github.com/user-attachments/assets/04de4506-f464-42e1-9ecc-9e4b40dda976" />
 
+Th
