@@ -1,6 +1,7 @@
 # Flight App
 
 UI:
+```
 *** Please enter one of the following commands ***
 > create <username> <password> <initial amount>
 > login <username> <password>
@@ -9,3 +10,4 @@ UI:
 > pay <reservation id>
 > reservations
 > quit
+```
